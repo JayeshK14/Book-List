@@ -1,4 +1,4 @@
-# Book List React App
+# BookHive - A Book List React App
 
 Welcome to the Book List React App! This application allows users to manage and organize their reading list in an intuitive and user-friendly way.
 
